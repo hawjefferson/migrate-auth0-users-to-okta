@@ -1,0 +1,52 @@
+{
+   "Id":"auth0|5de44c1a4ab5680cb471a9af",
+   "Nickname":"Postman IntegrationTest",
+   "Name":"auth-export-test@migratetookta.com.au",
+   "Email":"auth-export-test@migratetookta.com.au",
+   "Email Verified":true,
+   "Picture":"https://s.gravatar.com/avatar/3a80c8acb0c6b1c43c5b3fdaa7249c19?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fau.png",
+   "Connection":"Username-Password-Authentication",
+   "Created At":"2019-12-01T23:26:18.350Z",
+   "Updated At":"2019-12-01T23:26:45.029Z",
+   "App Metadata":{
+      "signup_complete":true,
+      "email_verification_code":"",
+      "email_verification_expires_at":"",
+      "mobile_number":"+614123123",
+      "mobile_verification_code":"",
+      "mobile_verification_expires_at":"",
+      "mobile_verified":"true",
+      "signedUp":true,
+      "forgot_password_email_verified":"false",
+      "forgot_password_mobile_verified":"false"
+   },
+   "Blocked":false,
+   "Last IP":"193.114.142.214",
+   "Last Login":"2019-12-01T23:26:44.800Z",
+   "Last Password Reset":"2019-12-01T23:26:44.094Z",
+   "Logins Count":2,
+   "passwordHash":"$2b$10$a08qKCr0ulc7ey8nqCJY2OK1vTHvRoCSecqoPkacn25k/kwpzV87O",
+   "password_set_date":{
+      "$date":"2019-12-01T23:26:44.094Z"
+   },
+   "password_history":[
+      {
+         "password_hash":"$2b$10$a08qKCr0ulc7ey8nqCJY2OK1vTHvRoCSecqoPkacn25k/kwpzV87O",
+         "date_set":{
+            "$date":"2019-12-01T23:26:44.094Z"
+         }
+      },
+      {
+         "password_hash":"$2b$10$bn7B1m7/G5cHnFq/.hrrJuwwqkOSrkG2mArC7iE/iPsliDTUgowkW",
+         "date_set":{
+            "$date":"2019-12-01T23:26:30.677Z"
+         }
+      },
+      {
+         "password_hash":"$2b$10$LVfaHDNGbLIlx25mCT76FetHv4grSVRk/yysoG8yXzckh8Ly9WMja",
+         "date_set":{
+            "$date":"2019-12-01T23:26:18.338Z"
+         }
+      }
+   ]
+}
